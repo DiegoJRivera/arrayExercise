@@ -1,7 +1,6 @@
 /*
  * Practical Exercise 3 developed by Diego Rivera for Programming Fundamentals class.
  * 05/09/2016
- * Professor Rachel Jeikishore
  * This java file is the class to Bookstore to create the bookList array.
  */
 package practicalexercise4;
