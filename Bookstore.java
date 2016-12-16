@@ -1,7 +1,6 @@
 /*
  * Practical Exercise 4 developed by Diego Rivera for Programming Fundamentals class.
  * 05/09/2016
- * Professor Rachel Jeikishore
  * This java file require input to create a Book object, where add to an array of Book
  * objects. The program have a menu system that allows the user of the application to:
  *      -Input details of an individual book
